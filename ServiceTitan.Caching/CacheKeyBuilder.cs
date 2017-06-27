@@ -34,9 +34,5 @@ namespace ServiceTitan.Caching
 
         }
 
-        //public interface ICacheKey
-        //{
-        //    void BuildCacheKey(CacheKeyBuilder builder);
-        //}
     }
 }

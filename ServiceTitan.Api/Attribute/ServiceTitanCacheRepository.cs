@@ -36,7 +36,7 @@ namespace ServiceTitan.Api.Attribute
         }
 
         /// <summary>
-        ///  Checking Cache duration and verify the reuqes is GET
+        ///  Checking Cache duration and verify the reuqest is GET
         /// </summary>
         /// <param name="ac"></param>
         /// <returns></returns>
