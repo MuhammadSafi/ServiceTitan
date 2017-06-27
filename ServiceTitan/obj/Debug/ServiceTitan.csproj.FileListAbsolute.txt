@@ -1,0 +1,5 @@
+C:\Users\Safi_pro\documents\visual studio 2015\Projects\ServiceTitan\ServiceTitan\bin\Debug\ServiceTitan.exe.config
+C:\Users\Safi_pro\documents\visual studio 2015\Projects\ServiceTitan\ServiceTitan\bin\Debug\ServiceTitan.exe
+C:\Users\Safi_pro\documents\visual studio 2015\Projects\ServiceTitan\ServiceTitan\bin\Debug\ServiceTitan.pdb
+C:\Users\Safi_pro\documents\visual studio 2015\Projects\ServiceTitan\ServiceTitan\obj\Debug\ServiceTitan.exe
+C:\Users\Safi_pro\documents\visual studio 2015\Projects\ServiceTitan\ServiceTitan\obj\Debug\ServiceTitan.pdb

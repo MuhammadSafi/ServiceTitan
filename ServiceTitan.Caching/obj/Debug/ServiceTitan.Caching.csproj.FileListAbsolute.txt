@@ -1,0 +1,4 @@
+C:\Users\Safi_pro\documents\visual studio 2015\Projects\ServiceTitan\ServiceTitan.Caching\bin\Debug\ServiceTitan.Caching.dll
+C:\Users\Safi_pro\documents\visual studio 2015\Projects\ServiceTitan\ServiceTitan.Caching\bin\Debug\ServiceTitan.Caching.pdb
+C:\Users\Safi_pro\documents\visual studio 2015\Projects\ServiceTitan\ServiceTitan.Caching\obj\Debug\ServiceTitan.Caching.dll
+C:\Users\Safi_pro\documents\visual studio 2015\Projects\ServiceTitan\ServiceTitan.Caching\obj\Debug\ServiceTitan.Caching.pdb
